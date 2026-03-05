@@ -1,0 +1,93 @@
+{
+  "title": "Himachal & Uttarakhand Workation",
+  "duration": "12 Days",
+  "categories": [
+    {
+      "name": "Essentials & Docs",
+      "icon": "fa-solid fa-passport",
+      "items": [
+        { "name": "Aadhar Card / ID Proof", "checked": false },
+        { "name": "Driving License", "checked": false },
+        { "name": "Cash & Debit/Credit Cards", "checked": false },
+        { "name": "Flight/Train/Bus Tickets", "checked": false },
+        { "name": "Hotel Booking Confirmations", "checked": false }
+      ]
+    },
+    {
+      "name": "Workation Gear",
+      "icon": "fa-solid fa-laptop-code",
+      "items": [
+        { "name": "Laptop", "checked": false },
+        { "name": "Laptop Charger", "checked": false },
+        { "name": "Mouse & Mousepad", "checked": false },
+        { "name": "High-Quality Headphones", "checked": false },
+        { "name": "Power Bank (20000mAh+)", "checked": false },
+        { "name": "Universal Extension Board", "checked": false },
+        { "name": "Portable WiFi Router / Dongle", "checked": false },
+        { "name": "Notepad & Pen", "checked": false }
+      ]
+    },
+    {
+      "name": "Clothing (Cold Weather Ready)",
+      "icon": "fa-solid fa-shirt",
+      "items": [
+        { "name": "T-Shirts (5-6)", "checked": false },
+        { "name": "Trekking Pants / Jeans (3-4)", "checked": false },
+        { "name": "Thermal Inners (2 pairs)", "checked": false },
+        { "name": "Heavy Jacket / Fleece", "checked": false },
+        { "name": "Light Sweaters / Hoodies", "checked": false },
+        { "name": "Undergarments (Adequate pairs)", "checked": false },
+        { "name": "Woolen Socks (4-5 pairs)", "checked": false },
+        { "name": "Gloves & Beanie/Cap", "checked": false },
+        { "name": "Nightwear", "checked": false },
+        { "name": "Raincoat / Windcheater", "checked": false }
+      ]
+    },
+    {
+      "name": "Footwear",
+      "icon": "fa-solid fa-shoe-prints",
+      "items": [
+        { "name": "Trekking / Sturdy Woods Shoes", "checked": false },
+        { "name": "Comfortable Walking Sneakers", "checked": false },
+        { "name": "Flip Flops / Sliders (For indoors)", "checked": false }
+      ]
+    },
+    {
+      "name": "Toiletries & Grooming",
+      "icon": "fa-solid fa-pump-soap",
+      "items": [
+        { "name": "Toothbrush & Paste", "checked": false },
+        { "name": "Soap / Body Wash & Shampoo", "checked": false },
+        { "name": "Moisturizer & Cold Cream", "checked": false },
+        { "name": "Lip Balm (Essential for cold)", "checked": false },
+        { "name": "Sunscreen (SPF 50+)", "checked": false },
+        { "name": "Deodorant / Perfume", "checked": false },
+        { "name": "Comb & Hair Styling", "checked": false },
+        { "name": "Shaving / Grooming Kit", "checked": false }
+      ]
+    },
+    {
+      "name": "Medical First Aid",
+      "icon": "fa-solid fa-kit-medical",
+      "items": [
+        { "name": "Paracetamol & Painkillers", "checked": false },
+        { "name": "Motion Sickness Pills", "checked": false },
+        { "name": "Cold & Cough Meds", "checked": false },
+        { "name": "Digestion & Acidity Pills", "checked": false },
+        { "name": "Band-Aids & Antiseptic Cream", "checked": false },
+        { "name": "Personal Prescriptions", "checked": false }
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "icon": "fa-solid fa-suitcase-rolling",
+      "items": [
+        { "name": "Sunglasses", "checked": false },
+        { "name": "Water Bottle / Thermos Flask", "checked": false },
+        { "name": "Snacks (Energy bars, dry fruits)", "checked": false },
+        { "name": "Small Backpack (For day trips)", "checked": false },
+        { "name": "Umbrella", "checked": false }
+      ]
+    }
+  ]
+}
