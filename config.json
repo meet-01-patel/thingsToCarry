@@ -84,6 +84,7 @@
       "items": [
         { "name": "Sunglasses", "checked": false },
         { "name": "Water Bottle / Thermos Flask", "checked": false },
+        { "name": "Torch", "checked": false },
         { "name": "Snacks (Energy bars, dry fruits)", "checked": false },
         { "name": "Small Backpack (For day trips)", "checked": false },
         { "name": "Umbrella", "checked": false }
