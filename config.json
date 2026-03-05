@@ -24,7 +24,9 @@
         { "name": "Power Bank (20000mAh+)", "checked": false },
         { "name": "Universal Extension Board", "checked": false },
         { "name": "Portable WiFi Router / Dongle", "checked": false },
-        { "name": "Notepad & Pen", "checked": false }
+        { "name": "Notepad & Pen", "checked": false },
+        { "name": "Waterproof Covers", "checked": false },
+        { "name": "Extension Cord", "checked": false }
       ]
     },
     {
